@@ -1,5 +1,9 @@
 [
-  { "id": 1, "name": "Bulbasaur" },
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "image": "https://github.com/PhilippeSchraepen/webontwikkeling-public-json/blob/main/images/philippe.jpg?raw=true"
+  },
   { "id": 2, "name": "Ivysaur" },
   { "id": 3, "name": "Venusaur" }
 ]
